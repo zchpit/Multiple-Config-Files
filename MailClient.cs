@@ -5,7 +5,7 @@ using System.Text;
 using System.Configuration;
 using System.IO;
 using System.Reflection;
-using Xelion.Mail.Contracts;
+using Mail.Contracts;
 using System.ServiceModel;
 using NLog;
 //using Utils;
